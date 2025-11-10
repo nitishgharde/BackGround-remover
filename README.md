@@ -71,9 +71,9 @@ pip install python-telegram-bot==20.3 requests
 ---
 
 ### Add your API Key
-Open OPen the python fileand replace the placeholders:
-  - TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-  - REMOVE_BG_API_KEY = "YOUR_REMOVE_BG_API_KEY"
+Open Open the python fileand replace the placeholders:
+- TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+- REMOVE_BG_API_KEY = "YOUR_REMOVE_BG_API_KEY"
 
 ---
 
