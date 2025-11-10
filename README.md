@@ -79,7 +79,7 @@ Open Open the python fileand replace the placeholders:
 
 ### RUN The Bot
 Once everything is set up, start your bot by running:
-    Python bot.py
+    Python main.py
 
 ---
 
