@@ -4,8 +4,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, CallbackContext
 
 # Set your API keys
-TELEGRAM_BOT_TOKEN = "7572715852:AAGSiZFNkX6cpp5Rp8xeq4nmLVaAc08_VFk"
-REMOVE_BG_API_KEY = "bR9uwjcWX92ae3xFZw5JaZUs"
+TELEGRAM_BOT_TOKEN = "Enter your Telegram API Key here"
+REMOVE_BG_API_KEY = "Enter your Gackground API KEY here"
 
 
 async def start(update: Update, context: CallbackContext):
