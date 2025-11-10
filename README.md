@@ -89,6 +89,6 @@ deactivate
 ---
 
 Developed by: Nitish Gharde
-   💬 Telegram: @TaskingNicksBot
+   💬 Telegram: [@TaskingNicksBot](https://web.telegram.org/a/#7572715852)
 
 
